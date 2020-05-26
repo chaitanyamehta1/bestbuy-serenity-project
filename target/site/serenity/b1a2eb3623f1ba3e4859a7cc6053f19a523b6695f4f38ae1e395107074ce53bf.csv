@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores test with tags","Creating a new Store","SUCCESS","2020-05-26T14:35:39.842+01:00[Europe/London]","0.0","0.11"
+"Stores test with tags","Creating a new Store","SUCCESS","2020-05-26T14:35:39.842+01:00[Europe/London]","0.0","0.11"
+"Stores test with tags","Updating Store information with  name:{0}, type:{1}. address:{2}, address2:{3}, city:{4}, state:{5}, zip:{6}, lat:{7}, lng:{8}, hours:{9}","SUCCESS","2020-05-26T14:35:40.274+01:00[Europe/London]","0.0","0.13"
+"Stores test with tags","Updating Store information with  name:{0}, type:{1}. address:{2}, address2:{3}, city:{4}, state:{5}, zip:{6}, lat:{7}, lng:{8}, hours:{9}","SUCCESS","2020-05-26T14:35:40.274+01:00[Europe/London]","0.0","0.13"

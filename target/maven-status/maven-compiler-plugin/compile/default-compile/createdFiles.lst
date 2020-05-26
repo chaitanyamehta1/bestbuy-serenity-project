@@ -1,0 +1,6 @@
+com\bestbuy\pojo\ProductsPojo.class
+com\bestbuy\utils\PropertyReader.class
+com\bestbuy\constants\EndPoint.class
+com\bestbuy\steps\ProductsSteps.class
+com\bestbuy\steps\StoresSteps.class
+com\bestbuy\pojo\StoresPojo.class
